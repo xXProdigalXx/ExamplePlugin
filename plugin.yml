@@ -1,0 +1,8 @@
+name: ExamplePlugin
+main: Prodigal.Youtube.Tutorials.ExamplePlugin
+version: 1.0.0
+author: xXProdigalXx
+
+commands:
+   hello:
+      description: Says Hello!
